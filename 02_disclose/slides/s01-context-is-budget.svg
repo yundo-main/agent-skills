@@ -10,19 +10,33 @@
   <rect width="1280" height="720" fill="#f8fafc"/>
   <rect width="1280" height="10" fill="#1769aa"/>
   <text x="60" y="90" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">컨텍스트는 예산이다</text>
-  <text x="60" y="134" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" fill="#516174" xml:space="preserve" style="white-space:pre">전량 로드가 대화를 밀어낸다</text>
-  <text x="640" y="200" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" font-weight="700" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">컨텍스트 창 = 유한한 예산</text>
-  <rect x="80" y="260" width="1120" height="110" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
-  <rect x="82" y="262" width="1030" height="106" rx="10" fill="#c0392b" stroke="#c0392b" stroke-width="1.5"/>
-  <text x="600" y="325" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle" xml:space="preserve" style="white-space:pre">스킬 300개 전량 로드 (name + 본문 + 리소스)</text>
-  <rect x="1114" y="262" width="84" height="106" rx="10" fill="#e6f1fa" stroke="#1769aa" stroke-width="1.5"/>
-  <text x="1156" y="300" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">대</text>
-  <text x="1156" y="320" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">화</text>
-  <line x1="1156" y1="375" x2="1156" y2="430" stroke="#1769aa" stroke-width="2" marker-end="url(#ah1769aa)"/>
-  <text x="1156" y="455" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">실제 대화가</text>
-  <text x="1156" y="475" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">들어갈 자리</text>
-  <text x="640" y="470" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700" fill="#c0392b" text-anchor="middle" xml:space="preserve" style="white-space:pre">스킬이 늘어나도 컨텍스트는 늘어나지 않는다</text>
-  <text x="640" y="515" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="18" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">해결책: 전부 올리지 말고, 필요한 것만 단계적으로</text>
+  <text x="60" y="134" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" fill="#516174" xml:space="preserve" style="white-space:pre">늘어나는 만큼 비용과 오류도 늘어난다</text>
+  <text x="90" y="200" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="20" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">컨텍스트가 늘면 생기는 일</text>
+  <rect x="60" y="230" width="560" height="66" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="80" y="258" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#c0392b" xml:space="preserve" style="white-space:pre">비용·지연</text>
+  <text x="80" y="282" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" xml:space="preserve" style="white-space:pre">토큰당 비용 — 툴 호출마다 재전송돼 누적</text>
+  <rect x="60" y="310" width="560" height="66" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="80" y="338" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#c0392b" xml:space="preserve" style="white-space:pre">주의력 희석</text>
+  <text x="80" y="362" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" xml:space="preserve" style="white-space:pre">긴 입력 중간부를 덜 봄 (lost in the middle)</text>
+  <rect x="60" y="390" width="560" height="66" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="80" y="418" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#c0392b" xml:space="preserve" style="white-space:pre">정확도 하락</text>
+  <text x="80" y="442" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" xml:space="preserve" style="white-space:pre">무관한 텍스트가 노이즈·잘못된 단서로 작동</text>
+  <rect x="60" y="470" width="560" height="66" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="80" y="498" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#c0392b" xml:space="preserve" style="white-space:pre">윈도우 한계</text>
+  <text x="80" y="522" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" xml:space="preserve" style="white-space:pre">초과 시 앞부분 절단 — 절차·규칙이 통째로 소실</text>
+  <rect x="660" y="230" width="560" height="306" rx="12" fill="#e6f1fa" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="940" y="270" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="19" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">그래서 Progressive Disclosure</text>
+  <text x="940" y="305" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">필요한 것만, 필요한 때에</text>
+  <text x="700" y="350" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#8a96a3" xml:space="preserve" style="white-space:pre">L1 메타</text>
+  <line x1="700" y1="375" x2="700" y2="425" stroke="#1769aa" stroke-width="2.5" marker-end="url(#ah1769aa)"/>
+  <text x="720" y="405" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="13" fill="#516174" xml:space="preserve" style="white-space:pre">상시</text>
+  <text x="700" y="445" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#1769aa" xml:space="preserve" style="white-space:pre">L2 본문</text>
+  <line x1="700" y1="470" x2="700" y2="520" stroke="#1769aa" stroke-width="2.5" marker-end="url(#ah1769aa)"/>
+  <text x="720" y="500" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="13" fill="#516174" xml:space="preserve" style="white-space:pre">트리거 시</text>
+  <text x="880" y="350" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#1769aa" xml:space="preserve" style="white-space:pre">L3 리소스</text>
+  <text x="880" y="375" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="13" fill="#516174" xml:space="preserve" style="white-space:pre">참조 시에만</text>
+  <text x="640" y="590" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="21" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">컨텍스트는 정밀함의 자원이지 창고가 아니다</text>
+  <text x="640" y="625" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">스킬이 수백 개여도 — L1만 항상, 나머지는 선택적으로</text>
   <text x="60" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">Agent Skills · 02 · 공개</text>
   <text x="1220" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#516174" text-anchor="end" xml:space="preserve" style="white-space:pre">01</text>
 </svg>
