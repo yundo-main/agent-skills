@@ -20,3 +20,6 @@ logs/*
 
 # 강사용 파일: 학생에게 공개되는 저장소라면 아래 줄의 주석을 해제
 instructor/
+
+# git
+.gitignore
