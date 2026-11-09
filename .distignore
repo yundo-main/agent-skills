@@ -1,6 +1,0 @@
-# 학생 배포 시 제외할 강사용 파일
-instructor/
-.env
-.venv/
-logs/*
-!logs/.gitkeep
