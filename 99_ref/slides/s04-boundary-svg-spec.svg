@@ -15,9 +15,9 @@
   <text x="340" y="212" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="21" font-weight="700" fill="#8a96a3" text-anchor="middle" xml:space="preserve" style="white-space:pre">SVG 양식 정의만</text>
   <text x="340" y="240" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">LLM의 출력 형식을 제어</text>
   <rect x="90" y="255" width="500" height="95" rx="12" fill="#eef1f4" stroke="#8a96a3" stroke-width="1.5"/>
-  <text x="340" y="282" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" font-weight="middle" fill="#122033" xml:space="preserve" style="white-space:pre">"viewBox 고정 · 팔레트 · 시스템 폰트 —</text>
-  <text x="340" y="306" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" font-weight="middle" fill="#122033" xml:space="preserve" style="white-space:pre">코드는 &lt;svg&gt; 블록만 출력하라"</text>
-  <text x="340" y="330" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="13" font-weight="middle" fill="#516174" xml:space="preserve" style="white-space:pre">= 출력 형식(텍스트) 제어</text>
+  <text x="340" y="282" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" text-anchor="middle" fill="#122033" xml:space="preserve" style="white-space:pre">"viewBox 고정 · 팔레트 · 시스템 폰트 —</text>
+  <text x="340" y="306" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" text-anchor="middle" fill="#122033" xml:space="preserve" style="white-space:pre">코드는 &lt;svg&gt; 블록만 출력하라"</text>
+  <text x="340" y="330" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="13" text-anchor="middle" fill="#516174" xml:space="preserve" style="white-space:pre">= 출력 형식(텍스트) 제어</text>
   <text x="340" y="390" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#c0392b" text-anchor="middle" xml:space="preserve" style="white-space:pre">결과물: SVG 코드 텍스트</text>
   <text x="340" y="423" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#8a96a3" text-anchor="middle" xml:space="preserve" style="white-space:pre">→ 메타프롬프트 영역</text>
   <line x1="628" y1="310" x2="652" y2="310" stroke="#b86e00" stroke-width="3" marker-end="url(#ahb86e00)"/>

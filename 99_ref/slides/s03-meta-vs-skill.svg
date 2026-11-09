@@ -15,11 +15,11 @@
   <text x="340" y="212" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" font-weight="700" fill="#8a96a3" text-anchor="middle" xml:space="preserve" style="white-space:pre">메타프롬프트</text>
   <text x="340" y="240" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">프롬프트를 만드는 프롬프트</text>
   <rect x="90" y="255" width="500" height="100" rx="12" fill="#eef1f4" stroke="#8a96a3" stroke-width="1.5"/>
-  <text x="340" y="288" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" font-weight="middle" fill="#122033" xml:space="preserve" style="white-space:pre">"너는 프롬프트 엔지니어다.</text>
-  <text x="340" y="312" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" font-weight="middle" fill="#122033" xml:space="preserve" style="white-space:pre">요구사항 → 완벽한 System Prompt를</text>
-  <text x="340" y="336" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" font-weight="middle" fill="#122033" xml:space="preserve" style="white-space:pre">생성하라"</text>
+  <text x="340" y="288" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" text-anchor="middle" fill="#122033" xml:space="preserve" style="white-space:pre">"너는 프롬프트 엔지니어다.</text>
+  <text x="340" y="312" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" text-anchor="middle" fill="#122033" xml:space="preserve" style="white-space:pre">요구사항 → 완벽한 System Prompt를</text>
+  <text x="340" y="336" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" text-anchor="middle" fill="#122033" xml:space="preserve" style="white-space:pre">생성하라"</text>
   <text x="340" y="390" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#c0392b" text-anchor="middle" xml:space="preserve" style="white-space:pre">결과물 = 주입할 텍스트 프롬프트</text>
-  <text x="340" y="425" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" font-weight="middle" fill="#516174" xml:space="preserve" style="white-space:pre">대상: LLM의 사고방식 · 페르소나·CoT·규칙</text>
+  <text x="340" y="425" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" text-anchor="middle" fill="#516174" xml:space="preserve" style="white-space:pre">대상: LLM의 사고방식 · 페르소나·CoT·규칙</text>
   <rect x="660" y="175" width="560" height="290" rx="12" fill="#e6f1fa" stroke="#1769aa" stroke-width="1.5"/>
   <text x="940" y="212" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">스킬</text>
   <text x="940" y="240" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">에이전트가 호출하는 실행 모듈</text>
@@ -29,7 +29,7 @@
   <text x="710" y="329" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" fill="#b86e00" xml:space="preserve" style="white-space:pre">tools: [bash, read, write]  # 플랫폼 확장</text>
   <text x="710" y="355" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">## Steps</text>
   <text x="710" y="377" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" fill="#122033" xml:space="preserve" style="white-space:pre">1. 파일 읽기 → 리팩터링 → pytest → 수정</text>
-  <text x="940" y="425" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" font-weight="middle" fill="#516174" xml:space="preserve" style="white-space:pre">대상: 에이전트 시스템 · 툴 권한·입출력·절차</text>
+  <text x="940" y="425" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" text-anchor="middle" fill="#516174" xml:space="preserve" style="white-space:pre">대상: 에이전트 시스템 · 툴 권한·입출력·절차</text>
   <rect x="90" y="485" width="1100" height="140" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
   <text x="110" y="520" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#516174" xml:space="preserve" style="white-space:pre">실행 주체</text>
   <text x="110" y="552" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="13" fill="#8a96a3" xml:space="preserve" style="white-space:pre">사용자가 LLM에 주입</text>
