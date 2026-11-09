@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img">
+<defs>
+    <marker id="ah516174" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#516174"/></marker>
+    <marker id="ah1769aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1769aa"/></marker>
+    <marker id="ah1a7f4b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a7f4b"/></marker>
+    <marker id="ahc0392b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+    <marker id="ahb86e00" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b86e00"/></marker>
+    <marker id="ah8a96a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a96a3"/></marker>
+</defs>
+  <rect width="1280" height="720" fill="#f8fafc"/>
+  <rect width="1280" height="10" fill="#1769aa"/>
+  <text x="60" y="90" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">SKILL.md의 해부</text>
+  <text x="60" y="134" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" fill="#516174" xml:space="preserve" style="white-space:pre">프런트매터 + 본문 + 번들 리소스</text>
+  <text x="80" y="195" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="21" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">skills/code-review/</text>
+  <text x="100" y="240" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="18" font-weight="600" fill="#1769aa" xml:space="preserve" style="white-space:pre">├── SKILL.md</text>
+  <text x="100" y="275" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="18" fill="#516174" xml:space="preserve" style="white-space:pre">└── checklists/</text>
+  <text x="100" y="310" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="18" fill="#516174" xml:space="preserve" style="white-space:pre">      └── review-checklist.md</text>
+  <text x="80" y="370" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" fill="#516174" xml:space="preserve" style="white-space:pre">디렉터리 + SKILL.md = 스킬의 최소 단위</text>
+  <rect x="560" y="175" width="620" height="425" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="870" y="215" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="22" font-weight="700" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">SKILL.md</text>
+  <rect x="590" y="240" width="560" height="140" rx="12" fill="#e6f1fa" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="610" y="272" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="16" fill="#1769aa" xml:space="preserve" style="white-space:pre">---</text>
+  <text x="610" y="300" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="16" fill="#122033" xml:space="preserve" style="white-space:pre">name: code-review</text>
+  <text x="610" y="328" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="16" fill="#122033" xml:space="preserve" style="white-space:pre">description: 코드를 보안·정확성 순으로 리뷰한다</text>
+  <text x="610" y="358" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="16" fill="#1769aa" xml:space="preserve" style="white-space:pre">---</text>
+  <rect x="590" y="395" width="560" height="170" rx="12" fill="#eef1f4" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="610" y="428" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre"># Code Review 절차</text>
+  <text x="610" y="460" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">1. 코드를 읽고 의도 파악</text>
+  <text x="610" y="490" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">2. 보안 → 정확성 → 성능 → 가독성</text>
+  <text x="610" y="520" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">3. [심각도] 위치 — 설명 — 제안</text>
+  <text x="610" y="548" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#8a96a3" xml:space="preserve" style="white-space:pre">상세: checklists/review-checklist.md</text>
+  <text x="60" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">Agent Skills · 01 · 명세</text>
+  <text x="1220" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#516174" text-anchor="end" xml:space="preserve" style="white-space:pre">01</text>
+</svg>
+

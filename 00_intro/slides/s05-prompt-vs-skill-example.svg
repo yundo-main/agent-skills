@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img">
+<defs>
+    <marker id="ah516174" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#516174"/></marker>
+    <marker id="ah1769aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1769aa"/></marker>
+    <marker id="ah1a7f4b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a7f4b"/></marker>
+    <marker id="ahc0392b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+    <marker id="ahb86e00" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b86e00"/></marker>
+    <marker id="ah8a96a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a96a3"/></marker>
+</defs>
+  <rect width="1280" height="720" fill="#f8fafc"/>
+  <rect width="1280" height="10" fill="#1769aa"/>
+  <text x="60" y="90" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">예시: git 커밋</text>
+  <text x="60" y="134" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" fill="#516174" xml:space="preserve" style="white-space:pre">같은 작업, 다른 무게</text>
+  <rect x="60" y="180" width="560" height="400" rx="12" fill="#ffffff" stroke="#8a96a3" stroke-width="1.5"/>
+  <text x="340" y="218" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" font-weight="700" fill="#8a96a3" text-anchor="middle" xml:space="preserve" style="white-space:pre">프롬프트 방식</text>
+  <rect x="100" y="245" width="480" height="80" rx="20" fill="#eef1f4" stroke="#8a96a3" stroke-width="1.5"/>
+  <text x="340" y="278" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">"코드 수정했어. Conventional Commits</text>
+  <text x="340" y="300" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre"> 양식으로 커밋 메시지 한글로 작성해줘"</text>
+  <text x="340" y="370" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" fill="#516174" xml:space="preserve" style="white-space:pre">· 매번 사용자가 지시문을 작성</text>
+  <text x="340" y="400" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" fill="#516174" xml:space="preserve" style="white-space:pre">· 에이전트가 쉘 명령까지 실행하긴 어려움</text>
+  <text x="340" y="450" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="16" fill="#8a96a3" text-anchor="middle" xml:space="preserve" style="white-space:pre">지시 → 답변 텍스트</text>
+  <text x="340" y="500" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="18" font-weight="700" fill="#8a96a3" text-anchor="middle" xml:space="preserve" style="white-space:pre">= '대화 규칙'</text>
+  <rect x="660" y="180" width="560" height="400" rx="12" fill="#e6f1fa" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="940" y="218" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">스킬 방식 (SKILL.md)</text>
+  <rect x="690" y="245" width="500" height="230" rx="12" fill="#ffffff" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="710" y="278" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" fill="#1769aa" xml:space="preserve" style="white-space:pre">---</text>
+  <text x="710" y="300" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" fill="#122033" xml:space="preserve" style="white-space:pre">name: git-commit-helper</text>
+  <text x="710" y="322" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" fill="#122033" xml:space="preserve" style="white-space:pre">description: 변경분 분석 후 커밋 완료.</text>
+  <text x="710" y="344" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" fill="#122033" xml:space="preserve" style="white-space:pre">            "커밋해줘" 요청에 사용</text>
+  <text x="710" y="366" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" fill="#b86e00" xml:space="preserve" style="white-space:pre">tools: [bash]   # 플랫폼 확장: 권한 묶음</text>
+  <text x="710" y="388" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" fill="#1769aa" xml:space="preserve" style="white-space:pre">---</text>
+  <text x="710" y="412" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">## Steps</text>
+  <text x="710" y="434" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" fill="#122033" xml:space="preserve" style="white-space:pre">1. git diff --staged 로 변경 확인</text>
+  <text x="710" y="456" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" fill="#122033" xml:space="preserve" style="white-space:pre">2. 규격에 맞게 메시지 작성</text>
+  <text x="710" y="478" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" fill="#122033" xml:space="preserve" style="white-space:pre">3. git commit -m 실행</text>
+  <text x="940" y="530" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#1a7f4b" text-anchor="middle" xml:space="preserve" style="white-space:pre">"커밋해줘" 한마디 → diff → 메시지 → commit 완수</text>
+  <rect x="160" y="615" width="960" height="55" rx="12" fill="#e6f1fa" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="640" y="650" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="19" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">프롬프트 = '대화 규칙' · 스킬 = 툴 호출까지 묶은 '실행 프로그램'</text>
+  <text x="60" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">Agent Skills · 00 · 도입</text>
+  <text x="1220" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#516174" text-anchor="end" xml:space="preserve" style="white-space:pre">05</text>
+</svg>
+

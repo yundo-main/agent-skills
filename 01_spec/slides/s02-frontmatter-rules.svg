@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img">
+<defs>
+    <marker id="ah516174" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#516174"/></marker>
+    <marker id="ah1769aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1769aa"/></marker>
+    <marker id="ah1a7f4b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a7f4b"/></marker>
+    <marker id="ahc0392b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+    <marker id="ahb86e00" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b86e00"/></marker>
+    <marker id="ah8a96a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a96a3"/></marker>
+</defs>
+  <rect width="1280" height="720" fill="#f8fafc"/>
+  <rect width="1280" height="10" fill="#1769aa"/>
+  <text x="60" y="90" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">프런트매터 규칙</text>
+  <text x="60" y="134" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" fill="#516174" xml:space="preserve" style="white-space:pre">두 필드가 발견 가능성을 결정한다</text>
+  <rect x="80" y="190" width="540" height="380" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="110" y="235" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="26" font-weight="700" fill="#1769aa" xml:space="preserve" style="white-space:pre">name</text>
+  <text x="110" y="285" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" font-weight="600" fill="#122033" xml:space="preserve" style="white-space:pre">규칙</text>
+  <text x="130" y="318" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">· 소문자 + 숫자 + 하이픈만</text>
+  <text x="130" y="350" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">· 디렉터리명과 반드시 일치</text>
+  <text x="110" y="405" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" font-weight="600" fill="#122033" xml:space="preserve" style="white-space:pre">예</text>
+  <text x="130" y="438" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="16" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">code-review  ✓</text>
+  <text x="130" y="468" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="16" fill="#c0392b" xml:space="preserve" style="white-space:pre">CodeReview  ✗    code_review  ✗</text>
+  <text x="110" y="525" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#1769aa" xml:space="preserve" style="white-space:pre">역할: 스킬의 고유 식별자 · /명령어 이름</text>
+  <rect x="660" y="190" width="540" height="380" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="690" y="235" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="26" font-weight="700" fill="#1769aa" xml:space="preserve" style="white-space:pre">description</text>
+  <text x="690" y="285" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" font-weight="600" fill="#122033" xml:space="preserve" style="white-space:pre">규칙</text>
+  <text x="710" y="318" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">· 최대 1024자</text>
+  <text x="710" y="350" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">· '언제' 쓰는지가 핵심 — 트리거 단어 포함</text>
+  <text x="690" y="405" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" font-weight="600" fill="#122033" xml:space="preserve" style="white-space:pre">예</text>
+  <text x="710" y="438" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="16" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">"코드를 리뷰한다. /code-review,</text>
+  <text x="710" y="466" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="16" fill="#1a7f4b" xml:space="preserve" style="white-space:pre"> 리뷰해줘 요청에 사용"</text>
+  <text x="690" y="525" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#1769aa" xml:space="preserve" style="white-space:pre">역할: 유일한 검색 인덱스 — 여기 없는 단어로는 못 찾는다</text>
+  <text x="640" y="625" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="20" font-weight="700" fill="#c0392b" text-anchor="middle" xml:space="preserve" style="white-space:pre">스킬이 존재해도 description에 없으면 선택되지 않는다</text>
+  <text x="60" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">Agent Skills · 01 · 명세</text>
+  <text x="1220" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#516174" text-anchor="end" xml:space="preserve" style="white-space:pre">02</text>
+</svg>
+

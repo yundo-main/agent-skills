@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img">
+<defs>
+    <marker id="ah516174" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#516174"/></marker>
+    <marker id="ah1769aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1769aa"/></marker>
+    <marker id="ah1a7f4b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a7f4b"/></marker>
+    <marker id="ahc0392b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+    <marker id="ahb86e00" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b86e00"/></marker>
+    <marker id="ah8a96a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a96a3"/></marker>
+</defs>
+  <rect width="1280" height="720" fill="#f8fafc"/>
+  <rect width="1280" height="10" fill="#1769aa"/>
+  <text x="60" y="90" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">전체 파이프라인</text>
+  <text x="60" y="134" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" fill="#516174" xml:space="preserve" style="white-space:pre">vendored 층이 사슬처럼 이어진다</text>
+  <rect x="55" y="280" width="270" height="140" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="190" y="325" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="17" font-weight="700" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">scan_skills</text>
+  <text x="190" y="360" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">스캔·검증</text>
+  <text x="190" y="392" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="13" fill="#8a96a3" text-anchor="middle" xml:space="preserve" style="white-space:pre">01_spec vendored</text>
+  <line x1="330" y1="350" x2="360" y2="350" stroke="#1769aa" stroke-width="2.5" marker-end="url(#ah1769aa)"/>
+  <rect x="365" y="280" width="270" height="140" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="500" y="325" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="17" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">run_with_disclosure</text>
+  <text x="500" y="360" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">선택·공개</text>
+  <text x="500" y="392" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="13" fill="#8a96a3" text-anchor="middle" xml:space="preserve" style="white-space:pre">02_disclose vendored</text>
+  <line x1="640" y1="350" x2="670" y2="350" stroke="#1769aa" stroke-width="2.5" marker-end="url(#ah1769aa)"/>
+  <rect x="675" y="280" width="270" height="140" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="810" y="325" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="17" font-weight="700" fill="#1a7f4b" text-anchor="middle" xml:space="preserve" style="white-space:pre">build_prompt</text>
+  <text x="810" y="360" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">주입 구성</text>
+  <text x="810" y="392" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="13" fill="#8a96a3" text-anchor="middle" xml:space="preserve" style="white-space:pre">03 새 층</text>
+  <line x1="950" y1="350" x2="980" y2="350" stroke="#1769aa" stroke-width="2.5" marker-end="url(#ah1769aa)"/>
+  <rect x="985" y="280" width="270" height="140" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="1120" y="325" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="17" font-weight="700" fill="#1a7f4b" text-anchor="middle" xml:space="preserve" style="white-space:pre">run_with_skill</text>
+  <text x="1120" y="360" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">실행·구조화</text>
+  <text x="1120" y="392" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="13" fill="#8a96a3" text-anchor="middle" xml:space="preserve" style="white-space:pre">03 새 층</text>
+  <rect x="200" y="500" width="880" height="80" rx="12" fill="#e6f1fa" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="640" y="545" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="19" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">run_review = 01의 발견 + 02의 공개 + 03의 주입 — 마지막 단계가 완성형</text>
+  <text x="60" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">Agent Skills · 03 · 적용</text>
+  <text x="1220" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#516174" text-anchor="end" xml:space="preserve" style="white-space:pre">04</text>
+</svg>
+

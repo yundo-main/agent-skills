@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img">
+<defs>
+    <marker id="ah516174" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#516174"/></marker>
+    <marker id="ah1769aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1769aa"/></marker>
+    <marker id="ah1a7f4b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a7f4b"/></marker>
+    <marker id="ahc0392b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+    <marker id="ahb86e00" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b86e00"/></marker>
+    <marker id="ah8a96a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a96a3"/></marker>
+</defs>
+  <rect width="1280" height="720" fill="#f8fafc"/>
+  <rect width="1280" height="10" fill="#1769aa"/>
+  <text x="60" y="90" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">단계 안내 — 오늘의 경로</text>
+  <text x="60" y="134" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" fill="#516174" xml:space="preserve" style="white-space:pre">명세 → 공개 → 적용 : 질문·개념·산출물</text>
+  <rect x="55" y="185" width="390" height="350" rx="12" fill="#ffffff" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="80" y="230" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="20" font-weight="700" fill="#1769aa" xml:space="preserve" style="white-space:pre">01_spec</text>
+  <text x="80" y="262" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">단계 1 — 명세</text>
+  <text x="80" y="305" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#b86e00" xml:space="preserve" style="white-space:pre">무엇이 스킬인가</text>
+  <line x1="80" y1="320" x2="420" y2="320" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="80" y="352" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" fill="#516174" xml:space="preserve" style="white-space:pre">· 프런트매터+본문+리소스</text>
+  <text x="80" y="384" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" fill="#516174" xml:space="preserve" style="white-space:pre">· 스캔·파싱·검증</text>
+  <rect x="80" y="440" width="340" height="70" rx="8" fill="#eef1f4" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="95" y="468" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="13" font-weight="700" fill="#8a96a3" xml:space="preserve" style="white-space:pre">산출물</text>
+  <text x="95" y="497" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">인벤토리 보고서 (유효 3/4)</text>
+  <line x1="450" y1="360" x2="490" y2="360" stroke="#1769aa" stroke-width="2.5" marker-end="url(#ah1769aa)"/>
+  <rect x="465" y="185" width="390" height="350" rx="12" fill="#ffffff" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="490" y="230" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="20" font-weight="700" fill="#1769aa" xml:space="preserve" style="white-space:pre">02_disclose</text>
+  <text x="490" y="262" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">단계 2 — 공개</text>
+  <text x="490" y="305" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#b86e00" xml:space="preserve" style="white-space:pre">언제 로드하는가</text>
+  <line x1="490" y1="320" x2="830" y2="320" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="490" y="352" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" fill="#516174" xml:space="preserve" style="white-space:pre">· L1 메타 → L2 본문 → L3 리소스</text>
+  <text x="490" y="384" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" fill="#516174" xml:space="preserve" style="white-space:pre">· description=유일한 인덱스</text>
+  <rect x="490" y="440" width="340" height="70" rx="8" fill="#eef1f4" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="505" y="468" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="13" font-weight="700" fill="#8a96a3" xml:space="preserve" style="white-space:pre">산출물</text>
+  <text x="505" y="497" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">naive vs 공개 절감표</text>
+  <line x1="860" y1="360" x2="900" y2="360" stroke="#1769aa" stroke-width="2.5" marker-end="url(#ah1769aa)"/>
+  <rect x="875" y="185" width="390" height="350" rx="12" fill="#e6f1fa" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="900" y="230" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="20" font-weight="700" fill="#1769aa" xml:space="preserve" style="white-space:pre">03_apply</text>
+  <text x="900" y="262" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">단계 3 — 적용</text>
+  <text x="900" y="305" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#b86e00" xml:space="preserve" style="white-space:pre">어떻게 행동시키는가</text>
+  <line x1="900" y1="320" x2="1240" y2="320" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="900" y="352" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" fill="#516174" xml:space="preserve" style="white-space:pre">· 본문 → system 주입</text>
+  <text x="900" y="384" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" fill="#516174" xml:space="preserve" style="white-space:pre">· agent 인자로 백엔드 교체</text>
+  <rect x="900" y="440" width="340" height="70" rx="8" fill="#eef1f4" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="915" y="468" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="13" font-weight="700" fill="#8a96a3" xml:space="preserve" style="white-space:pre">산출물</text>
+  <text x="915" y="497" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">리뷰 표 + SVG 산출물·검증</text>
+  <rect x="160" y="570" width="960" height="60" rx="12" fill="#eef1f4" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="640" y="608" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">층 구조: 이전 단계 모듈을 vendoring해 그대로 품고 새 층 하나를 얹는다 — 03이 완성형</text>
+  <text x="640" y="662" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" font-weight="600" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">실행은 어느 단계든:  cd {단계} &amp;&amp; python3 main.py</text>
+  <text x="60" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">Agent Skills · 00 · 도입</text>
+  <text x="1220" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#516174" text-anchor="end" xml:space="preserve" style="white-space:pre">08</text>
+</svg>
+

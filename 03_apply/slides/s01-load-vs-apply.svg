@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img">
+<defs>
+    <marker id="ah516174" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#516174"/></marker>
+    <marker id="ah1769aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1769aa"/></marker>
+    <marker id="ah1a7f4b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a7f4b"/></marker>
+    <marker id="ahc0392b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+    <marker id="ahb86e00" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b86e00"/></marker>
+    <marker id="ah8a96a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a96a3"/></marker>
+</defs>
+  <rect width="1280" height="720" fill="#f8fafc"/>
+  <rect width="1280" height="10" fill="#1769aa"/>
+  <text x="60" y="90" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">로드는 시작일 뿐</text>
+  <text x="60" y="134" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" fill="#516174" xml:space="preserve" style="white-space:pre">적용 = 주입</text>
+  <rect x="80" y="230" width="340" height="120" rx="12" fill="#e6f1fa" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="100" y="270" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="18" font-weight="700" fill="#1769aa" xml:space="preserve" style="white-space:pre">02에서 한 일</text>
+  <text x="100" y="305" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#122033" xml:space="preserve" style="white-space:pre">스킬을 찾고 본문을 읽어왔다</text>
+  <text x="100" y="330" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" xml:space="preserve" style="white-space:pre">(아직 메모리에 있을 뿐)</text>
+  <line x1="430" y1="290" x2="520" y2="290" stroke="#516174" stroke-width="2.5" marker-end="url(#ah516174)"/>
+  <rect x="535" y="230" width="340" height="120" rx="12" fill="#ffffff" stroke="#1a7f4b" stroke-width="1.5"/>
+  <text x="555" y="270" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="18" font-weight="700" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">03에서 할 일</text>
+  <text x="555" y="305" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#122033" xml:space="preserve" style="white-space:pre">본문을 system으로 승격</text>
+  <text x="555" y="330" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" xml:space="preserve" style="white-space:pre">에이전트의 '일하는 방식'이 됨</text>
+  <line x1="885" y1="290" x2="975" y2="290" stroke="#1769aa" stroke-width="2.5" marker-end="url(#ah1769aa)"/>
+  <rect x="990" y="230" width="210" height="120" rx="12" fill="#ffffff" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="1095" y="275" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="19" font-weight="700" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">에이전트</text>
+  <text x="1095" y="308" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">절차대로 행동</text>
+  <text x="640" y="440" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="26" font-weight="700" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">로드 ≠ 적용</text>
+  <text x="640" y="485" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="19" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">읽어온 절차를 프롬프트에 '주입'해야 비로소 행동이 바뀐다</text>
+  <text x="60" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">Agent Skills · 03 · 적용</text>
+  <text x="1220" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#516174" text-anchor="end" xml:space="preserve" style="white-space:pre">01</text>
+</svg>
+

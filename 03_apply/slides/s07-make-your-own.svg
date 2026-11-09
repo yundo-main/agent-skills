@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img">
+<defs>
+    <marker id="ah516174" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#516174"/></marker>
+    <marker id="ah1769aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1769aa"/></marker>
+    <marker id="ah1a7f4b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a7f4b"/></marker>
+    <marker id="ahc0392b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+    <marker id="ahb86e00" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b86e00"/></marker>
+    <marker id="ah8a96a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a96a3"/></marker>
+</defs>
+  <rect width="1280" height="720" fill="#f8fafc"/>
+  <rect width="1280" height="10" fill="#1769aa"/>
+  <text x="60" y="90" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">나만의 스킬 만들기</text>
+  <text x="60" y="134" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" fill="#516174" xml:space="preserve" style="white-space:pre">만들고 → 검증하고 → 트리거시켜라</text>
+  <rect x="80" y="190" width="520" height="400" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="360" y="230" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="20" font-weight="700" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">내 스킬 템플릿</text>
+  <text x="110" y="275" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#1769aa" xml:space="preserve" style="white-space:pre">---</text>
+  <text x="110" y="302" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">name: my-skill        # 디렉터리명과 동일</text>
+  <text x="110" y="329" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">description: 언제 쓰는지 + 트리거 단어</text>
+  <text x="110" y="356" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#1769aa" xml:space="preserve" style="white-space:pre">---</text>
+  <text x="110" y="390" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#516174" xml:space="preserve" style="white-space:pre"># 절차 (짧게 — 상세는 리소스로)</text>
+  <text x="110" y="420" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#516174" xml:space="preserve" style="white-space:pre">1. ...</text>
+  <text x="110" y="450" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#516174" xml:space="preserve" style="white-space:pre">2. ...</text>
+  <rect x="650" y="190" width="550" height="400" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="680" y="235" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="20" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">체크리스트</text>
+  <text x="700" y="285" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" fill="#122033" xml:space="preserve" style="white-space:pre">□ name은 디렉터리명과 같은가</text>
+  <text x="700" y="325" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" fill="#122033" xml:space="preserve" style="white-space:pre">□ description에 트리거 단어가 있는가</text>
+  <text x="700" y="365" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" fill="#122033" xml:space="preserve" style="white-space:pre">□ 본문은 절차만 담고 있는가</text>
+  <text x="700" y="405" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" fill="#122033" xml:space="preserve" style="white-space:pre">□ 01_spec에서 ok로 검증되는가</text>
+  <text x="700" y="445" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" fill="#122033" xml:space="preserve" style="white-space:pre">□ 02_disclose에서 트리거되는가</text>
+  <text x="680" y="520" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#1769aa" xml:space="preserve" style="white-space:pre">→ 안 되면 description부터 고친다</text>
+  <text x="640" y="655" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="20" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">과제: skills/에 하나 추가하고 02에서 트리거 확인</text>
+  <text x="60" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">Agent Skills · 03 · 적용</text>
+  <text x="1220" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#516174" text-anchor="end" xml:space="preserve" style="white-space:pre">07</text>
+</svg>
+

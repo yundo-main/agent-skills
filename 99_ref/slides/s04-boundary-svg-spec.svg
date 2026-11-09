@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img">
+<defs>
+    <marker id="ah516174" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#516174"/></marker>
+    <marker id="ah1769aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1769aa"/></marker>
+    <marker id="ah1a7f4b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a7f4b"/></marker>
+    <marker id="ahc0392b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+    <marker id="ahb86e00" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b86e00"/></marker>
+    <marker id="ah8a96a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a96a3"/></marker>
+</defs>
+  <rect width="1280" height="720" fill="#f8fafc"/>
+  <rect width="1280" height="10" fill="#1769aa"/>
+  <text x="60" y="90" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">경계 사례: SVG 양식 정의</text>
+  <text x="60" y="134" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" fill="#516174" xml:space="preserve" style="white-space:pre">메타프롬프트가 스킬로 넘어가는 지점</text>
+  <rect x="60" y="175" width="560" height="270" rx="12" fill="#ffffff" stroke="#8a96a3" stroke-width="1.5"/>
+  <text x="340" y="212" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="21" font-weight="700" fill="#8a96a3" text-anchor="middle" xml:space="preserve" style="white-space:pre">SVG 양식 정의만</text>
+  <text x="340" y="240" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">LLM의 출력 형식을 제어</text>
+  <rect x="90" y="255" width="500" height="95" rx="12" fill="#eef1f4" stroke="#8a96a3" stroke-width="1.5"/>
+  <text x="340" y="282" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" font-weight="middle" fill="#122033" xml:space="preserve" style="white-space:pre">"viewBox 고정 · 팔레트 · 시스템 폰트 —</text>
+  <text x="340" y="306" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" font-weight="middle" fill="#122033" xml:space="preserve" style="white-space:pre">코드는 &lt;svg&gt; 블록만 출력하라"</text>
+  <text x="340" y="330" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="13" font-weight="middle" fill="#516174" xml:space="preserve" style="white-space:pre">= 출력 형식(텍스트) 제어</text>
+  <text x="340" y="390" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#c0392b" text-anchor="middle" xml:space="preserve" style="white-space:pre">결과물: SVG 코드 텍스트</text>
+  <text x="340" y="423" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#8a96a3" text-anchor="middle" xml:space="preserve" style="white-space:pre">→ 메타프롬프트 영역</text>
+  <line x1="628" y1="310" x2="652" y2="310" stroke="#b86e00" stroke-width="3" marker-end="url(#ahb86e00)"/>
+  <text x="640" y="285" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="13" font-weight="700" fill="#b86e00" text-anchor="middle" xml:space="preserve" style="white-space:pre">도구 실행</text>
+  <text x="640" y="345" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="13" font-weight="700" fill="#b86e00" text-anchor="middle" xml:space="preserve" style="white-space:pre">추가</text>
+  <rect x="660" y="175" width="560" height="270" rx="12" fill="#e6f1fa" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="940" y="212" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="21" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">양식 + 도구 실행</text>
+  <text x="940" y="240" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">같은 양식을 품고 작업을 완수</text>
+  <rect x="690" y="255" width="500" height="135" rx="12" fill="#ffffff" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="710" y="282" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" fill="#122033" xml:space="preserve" style="white-space:pre">name: generate-svg-diagram</text>
+  <text x="710" y="304" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" fill="#b86e00" xml:space="preserve" style="white-space:pre">tools: [write_file, bash]  # 플랫폼 확장</text>
+  <text x="710" y="330" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">## Steps</text>
+  <text x="710" y="352" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" fill="#122033" xml:space="preserve" style="white-space:pre">1. 양식대로 생성 → write_file 저장</text>
+  <text x="710" y="374" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="13" fill="#122033" xml:space="preserve" style="white-space:pre">2. bash 렌더링 → PNG 변환·검증</text>
+  <text x="940" y="423" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">→ 스킬 (양식이 부품으로 내장)</text>
+  <rect x="90" y="475" width="1100" height="110" rx="12" fill="#e6f1fa" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="640" y="515" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="20" font-weight="700" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">경계 = '도구 실행'의 유무</text>
+  <text x="640" y="552" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">양식(메타프롬프트)은 출력 규칙 — 거기에 실행이 붙으면 스킬의 부품이 된다</text>
+  <text x="640" y="625" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#b86e00" text-anchor="middle" xml:space="preserve" style="white-space:pre">이 슬라이드도 양식 규격(메타프롬프트)이 만든 산출물이다</text>
+  <text x="640" y="655" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">자동 생성기에 양식 + write_file + bash를 묶으면 이 일 자체가 스킬이 된다</text>
+  <text x="60" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">Agent Skills · 99 · 참고</text>
+  <text x="1220" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#516174" text-anchor="end" xml:space="preserve" style="white-space:pre">04</text>
+</svg>
+

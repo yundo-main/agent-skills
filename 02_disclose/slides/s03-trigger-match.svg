@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img">
+<defs>
+    <marker id="ah516174" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#516174"/></marker>
+    <marker id="ah1769aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1769aa"/></marker>
+    <marker id="ah1a7f4b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a7f4b"/></marker>
+    <marker id="ahc0392b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+    <marker id="ahb86e00" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b86e00"/></marker>
+    <marker id="ah8a96a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a96a3"/></marker>
+</defs>
+  <rect width="1280" height="720" fill="#f8fafc"/>
+  <rect width="1280" height="10" fill="#1769aa"/>
+  <text x="60" y="90" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">무엇이 트리거를 당기는가</text>
+  <text x="60" y="134" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" fill="#516174" xml:space="preserve" style="white-space:pre">description 밖에 없다</text>
+  <rect x="80" y="190" width="330" height="80" rx="12" fill="#e6f1fa" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="245" y="225" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">요청</text>
+  <text x="245" y="252" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" font-weight="700" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">"이 코드 리뷰해줘"</text>
+  <line x1="415" y1="230" x2="470" y2="230" stroke="#1769aa" stroke-width="2.5" marker-end="url(#ah1769aa)"/>
+  <rect x="480" y="190" width="430" height="88" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="505" y="222" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="17" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">code-review</text>
+  <text x="505" y="250" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" xml:space="preserve" style="white-space:pre">description과 바이그램 겹침</text>
+  <text x="895" y="242" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#1a7f4b" text-anchor="end" xml:space="preserve" style="white-space:pre">score 7 → 선택</text>
+  <rect x="480" y="300" width="430" height="88" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="505" y="332" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="17" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">infra-check</text>
+  <text x="505" y="360" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" xml:space="preserve" style="white-space:pre">겹침 거의 없음</text>
+  <text x="895" y="352" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#8a96a3" text-anchor="end" xml:space="preserve" style="white-space:pre">score ~0</text>
+  <rect x="80" y="480" width="330" height="80" rx="12" fill="#eef1f4" stroke="#8a96a3" stroke-width="1.5"/>
+  <text x="245" y="515" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#8a96a3" text-anchor="middle" xml:space="preserve" style="white-space:pre">요청</text>
+  <text x="245" y="542" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" font-weight="700" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">"오늘 날씨 알려줘"</text>
+  <line x1="415" y1="520" x2="470" y2="520" stroke="#8a96a3" stroke-width="2.5" marker-end="url(#ah8a96a3)"/>
+  <rect x="480" y="480" width="430" height="80" rx="12" fill="#ffffff" stroke="#8a96a3" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="695" y="515" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">어떤 description과도 안 겹침</text>
+  <text x="695" y="545" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" fill="#8a96a3" text-anchor="middle" xml:space="preserve" style="white-space:pre">미선택 → 일반 응답 폴백 (L2/L3 로드 0)</text>
+  <text x="640" y="625" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="19" font-weight="600" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">실제 하니스는 모델이 판단 — 그래도 재료는 description뿐</text>
+  <text x="60" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">Agent Skills · 02 · 공개</text>
+  <text x="1220" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#516174" text-anchor="end" xml:space="preserve" style="white-space:pre">03</text>
+</svg>
+

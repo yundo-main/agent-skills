@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img">
+<defs>
+    <marker id="ah516174" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#516174"/></marker>
+    <marker id="ah1769aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1769aa"/></marker>
+    <marker id="ah1a7f4b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a7f4b"/></marker>
+    <marker id="ahc0392b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+    <marker id="ahb86e00" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b86e00"/></marker>
+    <marker id="ah8a96a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a96a3"/></marker>
+</defs>
+  <rect width="1280" height="720" fill="#f8fafc"/>
+  <rect width="1280" height="10" fill="#1769aa"/>
+  <text x="60" y="90" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">산출물로 끝나는 실습</text>
+  <text x="60" y="134" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" fill="#516174" xml:space="preserve" style="white-space:pre">생성 → 저장 → XML 검증까지 실제로 수행</text>
+  <rect x="60" y="190" width="340" height="120" rx="12" fill="#ffffff" stroke="#1a7f4b" stroke-width="1.5"/>
+  <text x="230" y="225" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="18" font-weight="700" fill="#1a7f4b" text-anchor="middle" xml:space="preserve" style="white-space:pre">트리거·공개</text>
+  <text x="230" y="258" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" font-weight="middle" fill="#516174" xml:space="preserve" style="white-space:pre">svg-diagram (02 재사용)</text>
+  <line x1="405" y1="250" x2="465" y2="250" stroke="#1769aa" stroke-width="2.5" marker-end="url(#ah1769aa)"/>
+  <rect x="475" y="190" width="340" height="120" rx="12" fill="#ffffff" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="645" y="225" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="18" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">system 주입·생성</text>
+  <text x="645" y="258" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" font-weight="middle" fill="#516174" xml:space="preserve" style="white-space:pre">스킬 절차대로 SVG 코드 출력</text>
+  <line x1="820" y1="250" x2="880" y2="250" stroke="#1769aa" stroke-width="2.5" marker-end="url(#ah1769aa)"/>
+  <rect x="890" y="190" width="330" height="120" rx="12" fill="#ffffff" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="1055" y="225" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="18" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">파일 저장·검증</text>
+  <text x="1055" y="258" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" font-weight="middle" fill="#516174" xml:space="preserve" style="white-space:pre">logs/arch-diagram.svg</text>
+  <rect x="140" y="370" width="1000" height="180" rx="12" fill="#eef1f4" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="170" y="410" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">$ python3 main.py</text>
+  <text x="170" y="442" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">[svg] 트리거: svg-diagram (공개토큰 249)</text>
+  <text x="170" y="474" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">[svg] ../logs/arch-diagram.svg 저장 (1764B) · XML 검증 ok</text>
+  <text x="170" y="506" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#516174" xml:space="preserve" style="white-space:pre">[svg] 열어 보기: open ../logs/arch-diagram.svg</text>
+  <text x="640" y="610" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="20" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">스킬 적용의 끝은 '답변'이 아니라 '검증된 산출물'</text>
+  <text x="640" y="645" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">키가 없으면 status=error로 솔직하게 실패 — 가짜 출력은 만들지 않는다</text>
+  <text x="60" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">Agent Skills · 03 · 적용</text>
+  <text x="1220" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#516174" text-anchor="end" xml:space="preserve" style="white-space:pre">06</text>
+</svg>
+

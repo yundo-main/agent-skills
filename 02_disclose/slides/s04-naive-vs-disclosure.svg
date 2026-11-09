@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img">
+<defs>
+    <marker id="ah516174" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#516174"/></marker>
+    <marker id="ah1769aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1769aa"/></marker>
+    <marker id="ah1a7f4b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a7f4b"/></marker>
+    <marker id="ahc0392b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+    <marker id="ahb86e00" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b86e00"/></marker>
+    <marker id="ah8a96a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a96a3"/></marker>
+</defs>
+  <rect width="1280" height="720" fill="#f8fafc"/>
+  <rect width="1280" height="10" fill="#1769aa"/>
+  <text x="60" y="90" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">전량 로드 vs 점진 공개</text>
+  <text x="60" y="134" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" fill="#516174" xml:space="preserve" style="white-space:pre">데모 실측 — 스킬 4개 기준</text>
+  <text x="90" y="195" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#122033" xml:space="preserve" style="white-space:pre">naive (전량 로드)</text>
+  <rect x="90" y="211" width="1048.8" height="40" rx="8" fill="#c0392b" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="1152.8" y="239" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#c0392b" xml:space="preserve" style="white-space:pre">552 tok</text>
+  <text x="90" y="287" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#122033" xml:space="preserve" style="white-space:pre">공개 — "코드 리뷰해줘"</text>
+  <rect x="90" y="303" width="423.7" height="40" rx="8" fill="#1a7f4b" stroke="#1a7f4b" stroke-width="1.5"/>
+  <text x="527.7" y="331" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">223 tok (−60%)</text>
+  <text x="90" y="379" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#122033" xml:space="preserve" style="white-space:pre">공개 — "디스크·메모리 점검해줘"</text>
+  <rect x="90" y="395" width="338.2" height="40" rx="8" fill="#1a7f4b" stroke="#1a7f4b" stroke-width="1.5"/>
+  <text x="442.2" y="423" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">178 tok (−68%)</text>
+  <text x="90" y="471" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#122033" xml:space="preserve" style="white-space:pre">공개 — "다이어그램 SVG 만들어줘"</text>
+  <rect x="90" y="487" width="473.09999999999997" height="40" rx="8" fill="#1a7f4b" stroke="#1a7f4b" stroke-width="1.5"/>
+  <text x="577.0999999999999" y="515" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">249 tok (−55%)</text>
+  <text x="90" y="563" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#122033" xml:space="preserve" style="white-space:pre">공개 — "날씨 알려줘" (미스 매칭)</text>
+  <rect x="90" y="579" width="114.0" height="40" rx="8" fill="#1a7f4b" stroke="#1a7f4b" stroke-width="1.5"/>
+  <text x="218.0" y="607" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">60 tok (−89%)</text>
+  <text x="60" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">Agent Skills · 02 · 공개</text>
+  <text x="1220" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#516174" text-anchor="end" xml:space="preserve" style="white-space:pre">04</text>
+</svg>
+

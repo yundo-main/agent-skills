@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img">
+<defs>
+    <marker id="ah516174" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#516174"/></marker>
+    <marker id="ah1769aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1769aa"/></marker>
+    <marker id="ah1a7f4b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1a7f4b"/></marker>
+    <marker id="ahc0392b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+    <marker id="ahb86e00" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b86e00"/></marker>
+    <marker id="ah8a96a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a96a3"/></marker>
+</defs>
+  <rect width="1280" height="720" fill="#f8fafc"/>
+  <rect width="1280" height="10" fill="#1769aa"/>
+  <text x="60" y="90" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">스킬 vs 프롬프트</text>
+  <text x="60" y="134" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" fill="#516174" xml:space="preserve" style="white-space:pre">'이번 지시'와 '일하는 방식'의 차이</text>
+  <rect x="80" y="180" width="530" height="260" rx="12" fill="#ffffff" stroke="#8a96a3" stroke-width="1.5"/>
+  <text x="345" y="218" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700" fill="#8a96a3" text-anchor="middle" xml:space="preserve" style="white-space:pre">프롬프트</text>
+  <rect x="130" y="245" width="430" height="64" rx="20" fill="#eef1f4" stroke="#8a96a3" stroke-width="1.5"/>
+  <text x="345" y="284" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">"이 코드 리뷰해줘. 형식은..."</text>
+  <line x1="345" y1="318" x2="345" y2="362" stroke="#8a96a3" stroke-width="2" marker-end="url(#ah8a96a3)"/>
+  <text x="420" y="352" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#c0392b" xml:space="preserve" style="white-space:pre">대화 끝나면 소멸</text>
+  <text x="345" y="412" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">'무엇을 해야 하는지' 지시하는 설명서</text>
+  <rect x="670" y="180" width="530" height="260" rx="12" fill="#e6f1fa" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="935" y="218" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">스킬</text>
+  <rect x="720" y="245" width="430" height="64" rx="20" fill="#ffffff" stroke="#1769aa" stroke-width="1.5"/>
+  <text x="935" y="284" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="16" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">SKILL.md — 절차·기준·형식</text>
+  <line x1="935" y1="318" x2="935" y2="362" stroke="#1769aa" stroke-width="2" marker-end="url(#ah1769aa)"/>
+  <text x="1020" y="352" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">트리거 시 자동 호출</text>
+  <text x="935" y="396" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">언제·어떻게 도구를 써서</text>
+  <text x="935" y="424" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" text-anchor="middle" xml:space="preserve" style="white-space:pre">결과를 만들지 정의한 실행 로직</text>
+  <rect x="90" y="470" width="1100" height="160" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
+  <text x="110" y="505" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#516174" xml:space="preserve" style="white-space:pre">본질</text>
+  <text x="110" y="540" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#8a96a3" xml:space="preserve" style="white-space:pre">대화 규칙 (지시문)</text>
+  <text x="110" y="570" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#1769aa" xml:space="preserve" style="white-space:pre">실행 로직 (프로토콜)</text>
+  <text x="388" y="505" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#516174" xml:space="preserve" style="white-space:pre">작동</text>
+  <text x="388" y="540" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#8a96a3" xml:space="preserve" style="white-space:pre">사용자가 매번 지시</text>
+  <text x="388" y="570" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#1769aa" xml:space="preserve" style="white-space:pre">에이전트가 판단해 호출</text>
+  <line x1="373" y1="490" x2="373" y2="595" stroke="#c9d5e1" stroke-width="1"/>
+  <text x="666" y="505" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#516174" xml:space="preserve" style="white-space:pre">결과물</text>
+  <text x="666" y="540" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#8a96a3" xml:space="preserve" style="white-space:pre">텍스트·코드 답변</text>
+  <text x="666" y="570" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#1769aa" xml:space="preserve" style="white-space:pre">쉘 · 파일 · API 작업 수행</text>
+  <line x1="651" y1="490" x2="651" y2="595" stroke="#c9d5e1" stroke-width="1"/>
+  <text x="944" y="505" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" font-weight="700" fill="#516174" xml:space="preserve" style="white-space:pre">비용·수명</text>
+  <text x="944" y="540" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#8a96a3" xml:space="preserve" style="white-space:pre">항상 자리 차지 · 소멸</text>
+  <text x="944" y="570" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#1769aa" xml:space="preserve" style="white-space:pre">필요할 때만 · 파일 유지</text>
+  <line x1="929" y1="490" x2="929" y2="595" stroke="#c9d5e1" stroke-width="1"/>
+  <text x="640" y="672" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="21" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">프롬프트 = '대화 규칙'  ·  스킬 = '실행 프로그램'</text>
+  <text x="60" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">Agent Skills · 00 · 도입</text>
+  <text x="1220" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#516174" text-anchor="end" xml:space="preserve" style="white-space:pre">04</text>
+</svg>
+
