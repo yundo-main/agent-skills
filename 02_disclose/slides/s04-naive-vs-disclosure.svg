@@ -12,20 +12,20 @@
   <text x="60" y="90" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="40" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">전량 로드 vs 점진 공개</text>
   <text x="60" y="134" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" fill="#516174" xml:space="preserve" style="white-space:pre">데모 실측 — 스킬 4개 기준</text>
   <text x="90" y="195" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#122033" xml:space="preserve" style="white-space:pre">naive (전량 로드)</text>
-  <rect x="90" y="211" width="1201.8999999999999" height="40" rx="8" fill="#c0392b" stroke="#c0392b" stroke-width="1.5"/>
-  <text x="1305.8999999999999" y="239" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#c0392b" xml:space="preserve" style="white-space:pre">707 tok</text>
+  <rect x="90" y="211" width="1060.5" height="40" rx="8" fill="#c0392b" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="1164.5" y="239" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#c0392b" xml:space="preserve" style="white-space:pre">707 tok</text>
   <text x="90" y="287" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#122033" xml:space="preserve" style="white-space:pre">공개 — "다이어그램 SVG 만들어줘"</text>
-  <rect x="90" y="303" width="428.4" height="40" rx="8" fill="#1a7f4b" stroke="#1a7f4b" stroke-width="1.5"/>
-  <text x="532.4" y="331" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">252 tok (−64%)</text>
+  <rect x="90" y="303" width="378.0" height="40" rx="8" fill="#1a7f4b" stroke="#1a7f4b" stroke-width="1.5"/>
+  <text x="482.0" y="331" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">252 tok (−64%)</text>
   <text x="90" y="379" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#122033" xml:space="preserve" style="white-space:pre">공개 — "코드 리뷰해줘"</text>
-  <rect x="90" y="395" width="637.5" height="40" rx="8" fill="#1a7f4b" stroke="#1a7f4b" stroke-width="1.5"/>
-  <text x="741.5" y="423" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">375 tok (−47%)</text>
+  <rect x="90" y="395" width="562.5" height="40" rx="8" fill="#1a7f4b" stroke="#1a7f4b" stroke-width="1.5"/>
+  <text x="666.5" y="423" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">375 tok (−47%)</text>
   <text x="90" y="471" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#122033" xml:space="preserve" style="white-space:pre">공개 — "디스크·메모리 점검해줘"</text>
-  <rect x="90" y="487" width="302.59999999999997" height="40" rx="8" fill="#1a7f4b" stroke="#1a7f4b" stroke-width="1.5"/>
-  <text x="406.59999999999997" y="515" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">178 tok (−75%)</text>
+  <rect x="90" y="487" width="267.0" height="40" rx="8" fill="#1a7f4b" stroke="#1a7f4b" stroke-width="1.5"/>
+  <text x="371.0" y="515" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">178 tok (−75%)</text>
   <text x="90" y="563" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#122033" xml:space="preserve" style="white-space:pre">공개 — "날씨 알려줘" (미스 매칭)</text>
-  <rect x="90" y="579" width="102.0" height="40" rx="8" fill="#1a7f4b" stroke="#1a7f4b" stroke-width="1.5"/>
-  <text x="206.0" y="607" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">60 tok (−92%)</text>
+  <rect x="90" y="579" width="90.0" height="40" rx="8" fill="#1a7f4b" stroke="#1a7f4b" stroke-width="1.5"/>
+  <text x="194.0" y="607" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">60 tok (−92%)</text>
   <text x="60" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">Agent Skills · 02 · 공개</text>
   <text x="1220" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#516174" text-anchor="end" xml:space="preserve" style="white-space:pre">04</text>
 </svg>
