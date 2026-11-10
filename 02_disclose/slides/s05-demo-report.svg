@@ -28,33 +28,33 @@
   <text x="720" y="325" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">60</text>
   <text x="790" y="325" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">61</text>
   <text x="860" y="325" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">131</text>
-  <text x="940" y="325" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">639</text>
+  <text x="940" y="325" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">707</text>
   <text x="1040" y="325" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">252</text>
-  <text x="1140" y="325" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">61%</text>
+  <text x="1140" y="325" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">64%</text>
   <text x="90" y="370" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">이 파이썬 코드 리뷰해줘</text>
   <text x="530" y="370" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">code-review</text>
   <text x="720" y="370" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">60</text>
-  <text x="790" y="370" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">148</text>
+  <text x="790" y="370" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">215</text>
   <text x="860" y="370" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">100</text>
-  <text x="940" y="370" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">639</text>
-  <text x="1040" y="370" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">308</text>
-  <text x="1140" y="370" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">52%</text>
+  <text x="940" y="370" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">707</text>
+  <text x="1040" y="370" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">375</text>
+  <text x="1140" y="370" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">47%</text>
   <text x="90" y="415" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">서버 디스크랑 메모리 점검해줘</text>
   <text x="530" y="415" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">infra-check</text>
   <text x="720" y="415" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">60</text>
   <text x="790" y="415" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">54</text>
   <text x="860" y="415" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">64</text>
-  <text x="940" y="415" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">639</text>
+  <text x="940" y="415" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">707</text>
   <text x="1040" y="415" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">178</text>
-  <text x="1140" y="415" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">72%</text>
+  <text x="1140" y="415" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">75%</text>
   <text x="90" y="460" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">오늘 날씨 알려줘</text>
   <text x="530" y="460" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">-</text>
   <text x="720" y="460" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">60</text>
   <text x="790" y="460" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">0</text>
   <text x="860" y="460" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">0</text>
-  <text x="940" y="460" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">639</text>
+  <text x="940" y="460" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">707</text>
   <text x="1040" y="460" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">60</text>
-  <text x="1140" y="460" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">91%</text>
+  <text x="1140" y="460" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="14" fill="#122033" xml:space="preserve" style="white-space:pre">92%</text>
   <line x1="90" y1="505" x2="1190" y2="505" stroke="#c9d5e1" stroke-width="1.5"/>
   <text x="90" y="535" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#516174" xml:space="preserve" style="white-space:pre">L1=메타 상시 · L2=본문(트리거 시) · L3=리소스(참조 시)</text>
   <text x="90" y="570" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" font-weight="600" fill="#b86e00" xml:space="preserve" style="white-space:pre">svg-diagram의 L3=131 — 양식 규격(메타프롬프트)이 리소스로 내장된 예</text>

@@ -25,3 +25,13 @@ description: 코드를 보안·정확성·성능·가독성 순으로 리뷰한�
 ## 출력 형식
 - 문제 목록만 출력한다 — 인사말·서두·총평은 적지 않는다.
 - 문제가 없으면 `이상 없음`이라고만 답한다 — 억지로 만들지 않는다.
+
+## 출력 예시
+다음은 samples/에 있는 결함 코드의 기대 출력 형태다.
+
+```
+[critical] api_client.py:5 — API 키가 소스에 하드코딩됨 → os.environ["API_KEY"]로 이동
+[critical] eval_calc.py:5 — eval이 임의 코드 실행 → ast.literal_eval로 교체
+[major] json_loader.py:6 — bare except가 오류를 삼킴 → except ValueError 지정 후 처리
+```
+

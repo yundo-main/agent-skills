@@ -23,20 +23,20 @@
   <line x1="90" y1="295" x2="1190" y2="295" stroke="#c9d5e1" stroke-width="1.5"/>
   <text x="90" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">eval_calc.py</text>
   <text x="290" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">ok</text>
-  <text x="450" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">308</text>
-  <text x="580" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">639</text>
+  <text x="450" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">375</text>
+  <text x="580" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">707</text>
   <text x="700" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">1820</text>
   <text x="850" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">[critical] eval 사용 → ast.literal_eval</text>
   <text x="90" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">json_loader.py</text>
   <text x="290" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">ok</text>
-  <text x="450" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">308</text>
-  <text x="580" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">639</text>
+  <text x="450" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">375</text>
+  <text x="580" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">707</text>
   <text x="700" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">1540</text>
-  <text x="850" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">[major] bare except → except Exception</text>
+  <text x="850" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">[major] bare except → except ValueError</text>
   <text x="90" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">api_client.py</text>
   <text x="290" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">ok</text>
-  <text x="450" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">308</text>
-  <text x="580" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">639</text>
+  <text x="450" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">375</text>
+  <text x="580" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">707</text>
   <text x="700" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">1690</text>
   <text x="850" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">[critical] 키 하드코딩 → 환경변수</text>
   <line x1="90" y1="480" x2="1190" y2="480" stroke="#c9d5e1" stroke-width="1.5"/>
