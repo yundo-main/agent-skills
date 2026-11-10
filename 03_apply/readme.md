@@ -12,12 +12,14 @@ cd 03_apply && python3 main.py    # DEEPSEEK_API_KEY 필요 (루트 .env)
 
 | 파일 | 역할 |
 | --- | --- |
-| `main.py` | 진입점 — /code-review 리뷰 + svg-diagram 산출물 실습 |
+| `main.py` | 진입점 — svg-diagram 산출물 실습 + infra-check·code-review 데모 |
 | `apply.py` | 새 층 — build_prompt(L2+L3→system) · run_apply/run_review 파이프라인 |
 | `deepseek_agent.py` | 새 부품 — OpenAI 호환 (user,system)->str 백엔드 |
+| `samples/` | 리뷰 대상 샘플 .py (의도적 결함 포함) |
 | `disclosure.py` · `skill_loader.py` · `skills/` | ← 이전 단계 vendored |
 
 ## 산출물
 
+- infra-check 점검 보고 — L3 임계값(`infra-thresholds.md`) 적용 결과
 - `/code-review` 결과 표 — 스킬이 정한 `[심각도] 위치 — 설명 — 제안` 형식
 - `../logs/arch-diagram.svg` — svg-diagram 적용 산출물, XML 검증까지 수행

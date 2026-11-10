@@ -12,19 +12,30 @@ from apply import build_prompt, run_apply, run_review
 from disclosure import load_level3, run_naive
 from skill_loader import SKILLS_DIR, print_report, scan_skills
 
-# 리뷰 대상 — 스킬이 잡아내도록 의도적으로 문제를 심어 둔 코드 조각
-DEMO_TARGETS = [
-    ("eval", "def calc(expr):\n    return eval(expr)"),
-    ("bare-except", "import json\n\ndef load(raw):\n    try:\n"
-                    "        return json.loads(raw)\n    except:\n        pass"),
-    ("하드코딩키", 'API_KEY = "sk-1234567890abcdef"\n\n'
-                  "def fetch():\n    return API_KEY"),
-]
+# 리뷰 대상 — samples/ 아래 .py 파일. 스킬이 잡아내도록 의도적 결함을 심어 둠
+SAMPLES_DIR = "samples"
 
 # svg-diagram 적용 실습용 — 트리거 요청과 작업 대상, 산출물 경로
 SVG_REQUEST = "아키텍처 다이어그램 SVG로 만들어줘"
 SVG_TARGET = "3계층 아키텍처(프레젠테이션 · 로직 · 데이터) 다이어그램"
 SVG_OUT = "../logs/arch-diagram.svg"   # 학생 실행 산출물은 logs/에 둔다
+
+# infra-check 적용 실습용 — 트리거 요청과 점검 대상 지표(가상 값)
+INFRA_REQUEST = "서버 디스크랑 메모리 점검해줘"
+INFRA_METRICS = "disk: 91% 사용, mem: 87% 사용, load avg: 2.4, uptime: 45일"
+
+
+def run_infra_demo():
+    """infra-check 스킬 적용 실습 — 가상 지표를 절차대로 점검한 보고 텍스트."""
+    r = run_apply(INFRA_REQUEST, INFRA_METRICS,
+                  instruction="다음 지표를 스킬 절차대로 점검하라")
+    if r["status"] != "ok":
+        print(f"[infra] 실패: {r['error']}")
+        return
+    print(f"[infra] 트리거: {r['skill']} (공개토큰 {r['disclosed']}, "
+          f"{r['elapsed_ms']}ms)")
+    for ln in r["output"].splitlines()[:4]:
+        print(f"        {ln}")
 
 
 def run_svg_demo():
@@ -81,11 +92,18 @@ def main():
         print(f"[svg] 열어 보기: open {res['path']}")
     else:
         print(f"[svg] 실패: {res['error']}")
-    # 보조 실습: code-review — 다른 스킬도 같은 파이프라인으로 적용됨을 확인
+    # 보조 실습 1: infra-check — 지표를 절차대로 점검해 보고 텍스트 생성
+    print("\n--- infra-check 적용 데모 ---")
+    run_infra_demo()
+    # 보조 실습 2: code-review — samples/ 파일을 같은 파이프라인으로 리뷰
     print("\n--- code-review 적용 데모 ---")
-    results = [run_review(code) for _, code in DEMO_TARGETS]
+    files = sorted(f for f in os.listdir(SAMPLES_DIR) if f.endswith(".py"))
+    targets = [(os.path.splitext(f)[0],
+                open(os.path.join(SAMPLES_DIR, f), encoding="utf-8").read())
+               for f in files]
+    results = [run_review(code) for _, code in targets]
     rows = []
-    for (label, _), r in zip(DEMO_TARGETS, results):
+    for (label, _), r in zip(targets, results):
         note = (r["output"].splitlines() or [""])[0][:42] if r["status"] == "ok" \
             else r["error"][:42]
         rows.append([label, r["status"], r["disclosed"], naive,
