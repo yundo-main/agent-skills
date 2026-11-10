@@ -21,5 +21,7 @@ cd 03_apply && python3 main.py    # DEEPSEEK_API_KEY 필요 (루트 .env)
 ## 산출물
 
 - infra-check 점검 보고 — L3 임계값(`infra-thresholds.md`) 적용 결과
-- `/code-review` 결과 표 — 스킬이 정한 `[심각도] 위치 — 설명 — 제안` 형식
+- `/code-review` 결과 표 — 스킬이 정한 절차가 출력을 결정한다:
+  - 절차: 의도 파악 → 체크리스트(L3) 적용 → 보안→정확성→성능→가독성 순 스캔
+  - 형식: `[심각도] 위치 — 설명 — 수정 제안` 한 줄 · 심각도는 critical/major/minor
 - `../logs/arch-diagram.svg` — svg-diagram 적용 산출물, XML 검증까지 수행
