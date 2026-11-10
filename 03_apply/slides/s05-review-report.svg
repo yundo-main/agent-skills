@@ -21,24 +21,24 @@
   <text x="700" y="280" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" font-weight="700" fill="#516174" xml:space="preserve" style="white-space:pre">elapsed_ms</text>
   <text x="850" y="280" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" font-weight="700" fill="#516174" xml:space="preserve" style="white-space:pre">첫 줄</text>
   <line x1="90" y1="295" x2="1190" y2="295" stroke="#c9d5e1" stroke-width="1.5"/>
-  <text x="90" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">eval</text>
+  <text x="90" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">eval_calc.py</text>
   <text x="290" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">ok</text>
-  <text x="450" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">223</text>
-  <text x="580" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">555</text>
+  <text x="450" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">308</text>
+  <text x="580" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">639</text>
   <text x="700" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">1820</text>
-  <text x="850" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">[critical] 2행 — eval 사용 → ast.literal_eval</text>
-  <text x="90" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">bare-except</text>
+  <text x="850" y="335" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">[critical] eval 사용 → ast.literal_eval</text>
+  <text x="90" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">json_loader.py</text>
   <text x="290" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">ok</text>
-  <text x="450" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">223</text>
-  <text x="580" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">555</text>
+  <text x="450" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">308</text>
+  <text x="580" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">639</text>
   <text x="700" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">1540</text>
-  <text x="850" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">[major] 5행 — bare except → except Exception</text>
-  <text x="90" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">하드코딩키</text>
+  <text x="850" y="380" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">[major] bare except → except Exception</text>
+  <text x="90" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">api_client.py</text>
   <text x="290" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#1a7f4b" xml:space="preserve" style="white-space:pre">ok</text>
-  <text x="450" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">223</text>
-  <text x="580" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">555</text>
+  <text x="450" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">308</text>
+  <text x="580" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">639</text>
   <text x="700" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">1690</text>
-  <text x="850" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">[critical] 1행 — 키 하드코딩 → 환경변수</text>
+  <text x="850" y="425" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#122033" xml:space="preserve" style="white-space:pre">[critical] 키 하드코딩 → 환경변수</text>
   <line x1="90" y1="480" x2="1190" y2="480" stroke="#c9d5e1" stroke-width="1.5"/>
   <text x="90" y="510" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="15" fill="#516174" xml:space="preserve" style="white-space:pre">스킬 본문이 system 프롬프트로 주입됨 — 02와 동일한 공개 비용</text>
   <text x="640" y="575" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="19" font-weight="600" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">완성형은 절감 비교까지 품는다 — naive 열이 02의 대조군</text>
