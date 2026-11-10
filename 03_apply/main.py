@@ -97,14 +97,6 @@ def main():
                  rows,
                  footer="스킬 본문이 system 프롬프트로 주입됨 — 02와 동일한 공개 비용")
 
-    print("\n--- svg-diagram 적용 실습 ---")
-    res = run_svg_demo()
-    if res["status"] == "ok":
-        print(f"[svg] {res['path']} 저장 ({res['bytes']}B, {res['elapsed_ms']}ms) "
-              f"· XML 검증 {res['check']}")
-        print(f"[svg] 열어 보기: open {res['path']}")
-    else:
-        print(f"[svg] 실패: {res['error']}")
 
 
 if __name__ == "__main__":
