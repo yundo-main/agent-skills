@@ -13,14 +13,14 @@
   <text x="60" y="134" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="22" fill="#516174" xml:space="preserve" style="white-space:pre">description 밖에 없다</text>
   <rect x="80" y="190" width="330" height="80" rx="12" fill="#e6f1fa" stroke="#1769aa" stroke-width="1.5"/>
   <text x="245" y="225" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">요청</text>
-  <text x="245" y="252" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" font-weight="700" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">"이 코드 리뷰해줘"</text>
+  <text x="245" y="252" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" font-weight="700" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">"다이어그램 SVG 만들어줘"</text>
   <line x1="415" y1="230" x2="470" y2="230" stroke="#1769aa" stroke-width="2.5" marker-end="url(#ah1769aa)"/>
   <rect x="480" y="190" width="430" height="88" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
-  <text x="505" y="222" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="17" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">code-review</text>
+  <text x="505" y="222" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="17" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">svg-diagram</text>
   <text x="505" y="250" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" xml:space="preserve" style="white-space:pre">description과 바이그램 겹침</text>
-  <text x="895" y="242" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#1a7f4b" text-anchor="end" xml:space="preserve" style="white-space:pre">score 7 → 선택</text>
+  <text x="895" y="242" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#1a7f4b" text-anchor="end" xml:space="preserve" style="white-space:pre">score 15 → 선택</text>
   <rect x="480" y="300" width="430" height="88" rx="12" fill="#ffffff" stroke="#c9d5e1" stroke-width="1.5"/>
-  <text x="505" y="332" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="17" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">infra-check</text>
+  <text x="505" y="332" font-family="ui-monospace, Menlo, 'SF Mono', monospace" font-size="17" font-weight="700" fill="#122033" xml:space="preserve" style="white-space:pre">code-review</text>
   <text x="505" y="360" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="14" fill="#516174" xml:space="preserve" style="white-space:pre">겹침 거의 없음</text>
   <text x="895" y="352" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="700" fill="#8a96a3" text-anchor="end" xml:space="preserve" style="white-space:pre">score ~0</text>
   <rect x="80" y="480" width="330" height="80" rx="12" fill="#eef1f4" stroke="#8a96a3" stroke-width="1.5"/>

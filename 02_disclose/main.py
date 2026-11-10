@@ -10,9 +10,9 @@ from disclosure import run_naive, run_with_disclosure
 from skill_loader import SKILLS_DIR, print_report
 
 DEMO_REQUESTS = [
+    "아키텍처 다이어그램 SVG로 만들어줘",  # L3 리소스(양식 규격) 참조 스킬
     "이 파이썬 코드 리뷰해줘",
     "서버 디스크랑 메모리 점검해줘",
-    "아키텍처 다이어그램 SVG로 만들어줘",  # L3 리소스(양식 규격) 참조 스킬
     "오늘 날씨 알려줘",  # 트리거 없음 → 스킬 미선택 폴백
 ]
 

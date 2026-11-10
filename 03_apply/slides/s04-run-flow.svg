@@ -31,7 +31,7 @@
   <text x="1120" y="360" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="15" fill="#122033" text-anchor="middle" xml:space="preserve" style="white-space:pre">실행·구조화</text>
   <text x="1120" y="392" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="13" fill="#8a96a3" text-anchor="middle" xml:space="preserve" style="white-space:pre">03 새 층</text>
   <rect x="200" y="500" width="880" height="80" rx="12" fill="#e6f1fa" stroke="#1769aa" stroke-width="1.5"/>
-  <text x="640" y="545" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="19" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">run_review = 01의 발견 + 02의 공개 + 03의 주입 — 마지막 단계가 완성형</text>
+  <text x="640" y="545" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="19" font-weight="700" fill="#1769aa" text-anchor="middle" xml:space="preserve" style="white-space:pre">run_apply = 01의 발견 + 02의 공개 + 03의 주입 — svg·리뷰 모두 같은 파이프라인</text>
   <text x="60" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" fill="#516174" xml:space="preserve" style="white-space:pre">Agent Skills · 03 · 적용</text>
   <text x="1220" y="700" font-family="-apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="16" font-weight="600" fill="#516174" text-anchor="end" xml:space="preserve" style="white-space:pre">04</text>
 </svg>

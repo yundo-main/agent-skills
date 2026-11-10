@@ -72,7 +72,17 @@ def main():
         print("       cd 03_apply && python3 main.py 로 실행하라")
         return
     naive = run_naive()  # 02의 전량 로드 대조군 — 완성형도 같은 비교를 품는다
-    # 스캔(01) → 선택·공개(02) → 주입·실행(03) 전체 파이프라인을 대상별로 실행
+    # 관통 실습: svg-diagram — 01 발견 → 02 공개 → 03 적용까지 같은 스킬
+    print("\n--- svg-diagram 적용 실습 (생성 → 저장 → 검증) ---")
+    res = run_svg_demo()
+    if res["status"] == "ok":
+        print(f"[svg] {res['path']} 저장 ({res['bytes']}B, {res['elapsed_ms']}ms) "
+              f"· XML 검증 {res['check']}")
+        print(f"[svg] 열어 보기: open {res['path']}")
+    else:
+        print(f"[svg] 실패: {res['error']}")
+    # 보조 실습: code-review — 다른 스킬도 같은 파이프라인으로 적용됨을 확인
+    print("\n--- code-review 적용 데모 ---")
     results = [run_review(code) for _, code in DEMO_TARGETS]
     rows = []
     for (label, _), r in zip(DEMO_TARGETS, results):
